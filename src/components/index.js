@@ -9,6 +9,7 @@ function rgbToHex(r, g, b) {
 
 export { componentToHex, rgbToHex };
 
+
 export {
   default as Pencil,
   SKETCH_PENCIL

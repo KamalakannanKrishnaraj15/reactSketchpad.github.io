@@ -3,7 +3,7 @@ import { findDOMNode } from 'react-dom'
 import { SKETCH_PENCIL, Pencil } from "../components";
 
 export const sketchToolsMap = {
-    [SKETCH_PENCIL]: Pencil,
+  [SKETCH_PENCIL]: Pencil,
 };
 
 export default class SketchPad extends Component {

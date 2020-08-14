@@ -33,6 +33,7 @@ class App extends Component {
 
   render() {
     const { tool, size, color, isEraser, isHighLighter } = this.state;
+    
     return (
       <div className="sketchpad-wrapper">
         <h1 className="title">React SketchPad</h1>
