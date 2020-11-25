@@ -83,7 +83,7 @@ export default class SketchPad extends Component {
     const finalX = (clientX - left) * (canvasWidth / width);
     const finalY = (clientY - top) * (canvasHeight / height);
 
-    // return mouse/touch position inside canvas
+    // return mouse/touch position inside canvas supports both mobile and desktop
     return {
       x: finalX,
       y: finalY
