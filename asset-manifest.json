@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactSketchpad.github.io/static/css/main.6c62d757.chunk.css",
+    "main.js": "/reactSketchpad.github.io/static/js/main.715afb2e.chunk.js",
+    "main.js.map": "/reactSketchpad.github.io/static/js/main.715afb2e.chunk.js.map",
+    "runtime-main.js": "/reactSketchpad.github.io/static/js/runtime-main.77988474.js",
+    "runtime-main.js.map": "/reactSketchpad.github.io/static/js/runtime-main.77988474.js.map",
+    "static/js/2.a4502ebb.chunk.js": "/reactSketchpad.github.io/static/js/2.a4502ebb.chunk.js",
+    "static/js/2.a4502ebb.chunk.js.map": "/reactSketchpad.github.io/static/js/2.a4502ebb.chunk.js.map",
+    "index.html": "/reactSketchpad.github.io/index.html",
+    "precache-manifest.2416965ad6f4940020a0407503a67d17.js": "/reactSketchpad.github.io/precache-manifest.2416965ad6f4940020a0407503a67d17.js",
+    "service-worker.js": "/reactSketchpad.github.io/service-worker.js",
+    "static/css/main.6c62d757.chunk.css.map": "/reactSketchpad.github.io/static/css/main.6c62d757.chunk.css.map",
+    "static/js/2.a4502ebb.chunk.js.LICENSE.txt": "/reactSketchpad.github.io/static/js/2.a4502ebb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77988474.js",
+    "static/js/2.a4502ebb.chunk.js",
+    "static/css/main.6c62d757.chunk.css",
+    "static/js/main.715afb2e.chunk.js"
+  ]
+}
